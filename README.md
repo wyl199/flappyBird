@@ -1,1 +1,2 @@
-# function-block
+
+A small web game.
